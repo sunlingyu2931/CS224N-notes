@@ -1,0 +1,5 @@
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
+
+
+以上代码用来通过网址的vertify。。花了3个小时搞对
