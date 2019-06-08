@@ -1,5 +1,7 @@
 Stanford cs224n
 
+https://web.stanford.edu/class/cs224n/index.html#coursework 这里是slides 和课程的schedule之类的信息链接
+
 Lecture one
 
 
@@ -54,6 +56,6 @@ Lecture one
 这节课并不难，大家加油。
 
 
-
+各位胖友如果发现有错或者迷惑的地方请comment在下面谢谢！！
 
 
